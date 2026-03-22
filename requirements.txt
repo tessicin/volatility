@@ -1,4 +1,8 @@
+streamlit
 plotly
 pandas
 numpy
-streamlit
+scipy
+statsmodels
+yfinance
+requests
